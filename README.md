@@ -1,6 +1,6 @@
-- 👋 Hi, I'm @DalaSketchi.You can call me sket/sketchi.
+- 👋 Hi, I'm @DalaSketchi, You can call me sket/sketchi
 - 👀 I'm interested in C++/C#/Python
-- 🌱 I'm currently learning OI(Olympiad in Informatics),it's interesting
+- 🌱 I'm currently learning OI(Olympiad in Informatics), it's gripping
 
 <!---
 DalaSketchi/DalaSketchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
